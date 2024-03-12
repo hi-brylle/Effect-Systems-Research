@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "questions/Questions.md",
+                "file": "gaps/Effect composition is messy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "questions/Questions.md",
+                "file": "gaps/Effect composition is messy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "questions/Questions.md",
+                "file": "gaps/Effect composition is messy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "questions/Questions.md"
+                "file": "gaps/Effect composition is messy.md"
               }
             }
           }
@@ -148,21 +148,21 @@
   },
   "active": "d11831872e9aeeda",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "gaps/Effect composition is messy.md",
     "concepts/Type Inference.md",
+    "concepts/Polymorphism.md",
+    "concepts/Handlers.md",
+    "concepts/Effects.md",
+    "concepts/Effect Systems.md",
+    "questions/Questions.md",
+    "Untitled.canvas",
     "papers/Type Directed Compilation of Row-typed Algebraic Effects.md",
     "papers/Programming with Algebraic Effects and Handlers.md",
     "papers/Madoko-Scholarly Documents for the Web.md",
     "papers/Koka-Programming with Row-polymorphic Effect Types.md",
     "papers/Effects as Capabilities-Effect Handlers and Lightweight Effect Polymorphism..md",
-    "concepts/Polymorphism.md",
-    "concepts/Handlers.md",
-    "concepts/Effects.md",
-    "questions/Questions.md",
     "gaps/Gaps.md",
-    "gaps/Effect composition is messy.md",
     "questions",
-    "concepts/Effect Systems.md",
     "papers/Type Systems.md",
     "Type Directed Compilation of Row-typed Algebraic Effects.md",
     "gaps",
