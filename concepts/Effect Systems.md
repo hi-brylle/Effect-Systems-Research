@@ -1,0 +1,4 @@
+#concept #center
+Effect systems are similar to type systems in the following way: type systems ensure the correctness of the types of the values of a program while effect systems ensure the correctness of [side-effects](Effects.md) of computations in a program.
+
+Typically, when a programmer writes software, they usually lump together effect-free computations (also called pure functions) alongside effectful computations, e.g., mutating state, reading from the disk, pinging a network. It's entirely up to the programmer's mental model of the program (and discipline) to keep track of the effects of the program they're writing and making sure no effects have an unintended behavior. The ultimate goal of effect systems is to take this programmer's mental model out of the human and put its [semantics](Handlers.md) for the compiler to check for guarantees of correctness.

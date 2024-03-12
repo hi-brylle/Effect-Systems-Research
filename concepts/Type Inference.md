@@ -1,0 +1,2 @@
+#concept 
+The [Type Systems paper](<Type Systems>) defines type inference as "the process of finding a type for a program within a given type system". In the context of our effect systems research, this also means finding out the effect type of functions within a type-and-effect system.

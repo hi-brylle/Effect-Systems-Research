@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "093a2683bb61146d",
+    "type": "split",
+    "children": [
+      {
+        "id": "18320d011f4b2079",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d11831872e9aeeda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "questions/Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a17b1736d7e4835",
+    "type": "split",
+    "children": [
+      {
+        "id": "75c5a2a98cbc58da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f151eadb6e282d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5813c67012d047c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8de006fd0839fe4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "229db3f2ef2b4771",
+    "type": "split",
+    "children": [
+      {
+        "id": "aac7c88eaa246439",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f321929c69559a3f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "questions/Questions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a858ce6f4ebf657",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "questions/Questions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ebde9b00d5c4e2b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "27615c4712d99a1d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "questions/Questions.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d11831872e9aeeda",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "concepts/Type Inference.md",
+    "papers/Type Directed Compilation of Row-typed Algebraic Effects.md",
+    "papers/Programming with Algebraic Effects and Handlers.md",
+    "papers/Madoko-Scholarly Documents for the Web.md",
+    "papers/Koka-Programming with Row-polymorphic Effect Types.md",
+    "papers/Effects as Capabilities-Effect Handlers and Lightweight Effect Polymorphism..md",
+    "concepts/Polymorphism.md",
+    "concepts/Handlers.md",
+    "concepts/Effects.md",
+    "questions/Questions.md",
+    "gaps/Gaps.md",
+    "gaps/Effect composition is messy.md",
+    "questions",
+    "concepts/Effect Systems.md",
+    "papers/Type Systems.md",
+    "Type Directed Compilation of Row-typed Algebraic Effects.md",
+    "gaps",
+    "concepts",
+    "papers",
+    "attachments/Pasted image 20240312232444.png",
+    "attachments",
+    "Pasted image 20240312230658.png",
+    "something here.md",
+    "something here/concept 1.md",
+    "something here/concept 2.md",
+    "something here",
+    "Input-output.md",
+    "Paper - Effects as Capabilities-Effect Handlers and Lightweight Effect Polymorphism.md",
+    "Effect.md",
+    "Paper.md",
+    "().md",
+    "Effects2",
+    "Welcome.md"
+  ]
+}
