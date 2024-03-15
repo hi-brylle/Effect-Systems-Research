@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "18320d011f4b2079",
+        "id": "344c3823b17a7287",
         "type": "tabs",
         "children": [
           {
-            "id": "d11831872e9aeeda",
+            "id": "a2f82f7502165730",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -129,7 +129,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,29 +147,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d11831872e9aeeda",
+  "active": "a2f82f7502165730",
   "lastOpenFiles": [
-    "gaps/Effect composition is messy.md",
-    "concepts/Type Inference.md",
-    "concepts/Polymorphism.md",
-    "concepts/Handlers.md",
-    "concepts/Effects.md",
+    "papers/Effects as Capabilities-Effect Handlers and Lightweight Effect Polymorphism..md",
+    "papers/Type Systems.md",
     "concepts/Effect Systems.md",
-    "questions/Questions.md",
-    "Untitled.canvas",
-    "papers/Type Directed Compilation of Row-typed Algebraic Effects.md",
+    "attachments/Pasted image 20240312232444.png",
     "papers/Programming with Algebraic Effects and Handlers.md",
     "papers/Madoko-Scholarly Documents for the Web.md",
     "papers/Koka-Programming with Row-polymorphic Effect Types.md",
-    "papers/Effects as Capabilities-Effect Handlers and Lightweight Effect Polymorphism..md",
+    "papers/Type Directed Compilation of Row-typed Algebraic Effects.md",
+    "concepts/Effects.md",
+    "gaps/Effect composition is messy.md",
     "gaps/Gaps.md",
+    "concepts/Handlers.md",
+    "concepts/Polymorphism.md",
+    "concepts/Type Inference.md",
+    "questions/Questions.md",
+    "Untitled.canvas",
     "questions",
-    "papers/Type Systems.md",
     "Type Directed Compilation of Row-typed Algebraic Effects.md",
     "gaps",
     "concepts",
     "papers",
-    "attachments/Pasted image 20240312232444.png",
     "attachments",
     "Pasted image 20240312230658.png",
     "something here.md",
