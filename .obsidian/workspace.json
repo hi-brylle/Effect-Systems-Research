@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "344c3823b17a7287",
+        "id": "858f29e150431d55",
         "type": "tabs",
         "children": [
           {
-            "id": "a2f82f7502165730",
+            "id": "385175a241801a03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gaps/Effect composition is messy.md",
+                "file": "concepts/Effects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f293003aaeba4dcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "papers/Abstracting Algebraic Effects.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 333.5
   },
   "right": {
     "id": "229db3f2ef2b4771",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gaps/Effect composition is messy.md",
+                "file": "papers/Abstracting Algebraic Effects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gaps/Effect composition is messy.md",
+                "file": "papers/Abstracting Algebraic Effects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gaps/Effect composition is messy.md"
+                "file": "papers/Abstracting Algebraic Effects.md"
               }
             }
           }
@@ -147,23 +160,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2f82f7502165730",
+  "active": "f293003aaeba4dcd",
   "lastOpenFiles": [
-    "papers/Effects as Capabilities-Effect Handlers and Lightweight Effect Polymorphism..md",
-    "papers/Type Systems.md",
-    "concepts/Effect Systems.md",
-    "attachments/Pasted image 20240312232444.png",
-    "papers/Programming with Algebraic Effects and Handlers.md",
-    "papers/Madoko-Scholarly Documents for the Web.md",
-    "papers/Koka-Programming with Row-polymorphic Effect Types.md",
-    "papers/Type Directed Compilation of Row-typed Algebraic Effects.md",
     "concepts/Effects.md",
-    "gaps/Effect composition is messy.md",
-    "gaps/Gaps.md",
+    "papers/The Principles of the Flix Programming Language.md",
+    "papers/Type Directed Compilation of Row-typed Algebraic Effects.md",
+    "papers/Programming with Algebraic Effects and Handlers.md",
+    "concepts/Effect Systems.md",
     "concepts/Handlers.md",
     "concepts/Polymorphism.md",
-    "concepts/Type Inference.md",
+    "papers/Koka-Programming with Row-polymorphic Effect Types.md",
+    "papers/Abstracting Algebraic Effects.md",
+    "papers/Madoko-Scholarly Documents for the Web.md",
+    "papers/Effects as Capabilities-Effect Handlers and Lightweight Effect Polymorphism..md",
     "questions/Questions.md",
+    "papers/Type Systems.md",
+    "README.md",
+    "gaps/Effect composition is messy.md",
+    "attachments/Pasted image 20240312232444.png",
+    "gaps/Gaps.md",
+    "concepts/Type Inference.md",
     "Untitled.canvas",
     "questions",
     "Type Directed Compilation of Row-typed Algebraic Effects.md",
@@ -181,7 +197,6 @@
     "Effect.md",
     "Paper.md",
     "().md",
-    "Effects2",
-    "Welcome.md"
+    "Effects2"
   ]
 }

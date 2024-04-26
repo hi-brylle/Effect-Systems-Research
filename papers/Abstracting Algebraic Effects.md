@@ -1,0 +1,6 @@
+#paper
+Biernacki, Dariusz, et al. “Abstracting Algebraic Effects.” _Proceedings of the ACM on Programming Languages_, vol. 3, no. POPL, Jan. 2019, pp. 1–28. _DOI.org (Crossref)_, https://doi.org/10.1145/3290319.
+https://dl.acm.org/doi/pdf/10.1145/3290319
+- - -
+## First-pass summary
+This paper introduces *Helium*, another programming language with an [effect system](<Effect Systems>) but concerns itself with modularity by abstracting effects. The paper says that abstracting effects is not as simple as hiding the definition of an effect inside a library away from the user because the execution of effects require a runtime process of matching the effect to the appropriate handler. This dynamic nature of finding the appropriate handler for effects are keep in check by a mechanism in the language it calls effect coercions. The language is similar to [Koka](<Koka-Programming with Row-polymorphic Effect Types>) in the sense that it also has polymorphic row effects. The language distinguishes concrete effects from abstract effects, with concrete effects defined as effects with an explicitly-provided handler and abstract effects defined as effects without a provided handler. In [Eff](<Programming with Algebraic Effects and Handlers>), abstract effects would be handled by a construct specific to Eff called resources.

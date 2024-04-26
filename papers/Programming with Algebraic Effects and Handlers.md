@@ -16,3 +16,10 @@ This paper introduces *Eff*, a language with user-defined [effects and handlers]
 * Needs a runtime interpreter (which is the language it is written in: OCaml).
 ### Gaps:
 * [I find the composability of effect handlers to be convoluted](<Effect composition is messy>).
+- - -
+## Further notes:
+* Eff features default handlers that it calls resources. This definitely puts my problem statement in question now that default handlers exist anyway (and that I find user-defined handlers to be difficult to read). The paper, however, doesn't expound on resources and that might be worth looking into.
+* The Eff compiler distinguishes expressions from computations. Constants, booleans, variables, instantiations of sum types, function declarations are considered as expressions. On the other hand, computations encompass a lot more cases. For example, an integer expression added to another integer expression is still considered a computation despite both expressions possibly being 'pure computations' in the functional programming sense, i.e., they don't have side effects. For me, this consideration of otherwise pure computations as "side-effectful computation" feels too fine-grained but the paper claims it helps to treat such computations uniformly.
+* Eff effect types are types. Standard types have values or instantiations, for example, for the `boolean` type, there is `true` or `false` as value. Similarly, effect types have instances and in Eff, they are instantiated with `new E` for whatever effect type `E`.
+* Resources are default handlers for effects. Effect instances still need to associate themselves with resources and if they don't, a runtime error occurs, similar to when a program crashes when `Exception`-throwing functions aren't put inside `try`/`catch` blocks in mainstream languages.
+* Resources are a way for Eff programs to interact with the real world, e.g., state management (working with heap memory is pretty much well understood, and it's just a few operations of allocating, reading and writing to RAM anyway).

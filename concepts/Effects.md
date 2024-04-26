@@ -10,3 +10,9 @@ Here's a non-exhaustive list of effects:
 * Exceptions
 * Async-await
 * Iterators
+
+The following are examples of these effects written in different languages with effect systems.
+
+```
+
+```
